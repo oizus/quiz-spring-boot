@@ -1,8 +1,6 @@
 # quiz-spring-boot
 
-# Tecnologias utilizadas
-
-## Back end
+## Tecnologias utilizadas
 - Java
 - Spring Boot
 - JPA / Hibernate
