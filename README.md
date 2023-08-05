@@ -9,3 +9,4 @@
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- MySQL
